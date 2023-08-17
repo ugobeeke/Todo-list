@@ -1,0 +1,27 @@
+body{
+    background-image: url(/img/jeshoots-com-9n1USijYJZ4-unsplash.jpg);
+    background-size: cover;
+    background-color: blanchedalmond;
+    background-repeat: no-repeat; 
+    font-size: medium;
+    font-weight: bold;
+    text-align: justify;
+    padding-left: 3rem;
+  }
+  h2 {
+      color: rgb(2, 8, 92);
+    }
+    
+    .delete {
+      margin-right: 10px;
+    }
+    #show{
+      margin-top: 2rem;
+    }
+    #current-date{
+      color: #e91405df;
+      margin-top: 2rem;
+      margin-bottom: 2rem;
+      font-weight: bold;
+      font-size: larger;
+    }
